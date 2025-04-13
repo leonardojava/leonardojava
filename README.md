@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22622
-Fork on GitHub
-7462
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="left">I'm Leonardo</h1>
 <h3 align="left">Dual-Enrollment CS major transferring to University</h3>
 

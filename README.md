@@ -8,7 +8,7 @@
 I've previously done some web development stuff using SpringBoot/Nextjs backend with React frontend, but am more interested now in low level stuff in C or machine learning stuff using Python. Checkout my pinned stuff :3
 
 - Reach me at **leonardo11907vo@gmail.com**
-
+- [My portfolio](https://leonardojava-github-io.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-vo-761845294/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-vo-761845294/" height="30" width="40" /></a>

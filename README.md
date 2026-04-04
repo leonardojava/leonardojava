@@ -1,5 +1,5 @@
 <h1 align="left">I'm Leonardo</h1>
-<h3 align="left">Dual-Enrollment CS major transferring to University</h3>
+<h3 align="left">Undergraduate Computer Science major at UCSC</h3>
 
 - I’m currently learning **about ML**
 
